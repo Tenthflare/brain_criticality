@@ -44,7 +44,6 @@ Supercritical regime
 | activity dies out | balanced, long-range | runaway / saturating |
 
 The similarity of the macro behaviour to Ising model is clear and striking
-Ising model at different regimes
 ![Ising model at different regimes](figs/isingmodel.png)
 
 ## Scope & limitation
