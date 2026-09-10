@@ -6,10 +6,13 @@ avalanches, with animations of the sub-critical, critical, and super-critical re
 
 Course project — NTU Graduate Statistical Mechanics Final Project. An expository, literature review visualisation, not original research
 
+Ising domains below critical temperature
 ![Ising domains below Tc](vid-to-gif/Isingcold.gif)
 
+Ising domains at critical temperature
 ![Ising domains at Tc](vid-to-gif/Isingcritical.gif)
 
+Ising domains above critical temperature
 ![Ising domains above Tc](vid-to-gif/Isinghot.gif)
 
 
@@ -29,8 +32,11 @@ Course project — NTU Graduate Statistical Mechanics Final Project. An exposito
 
 Animations of the three regimes make the dynamics legible at a glance:
 
+Subcritical regime
 ![Subcritical regime](vid-to-gif/Subcritical.gif)
+Critical regime
 ![Critical regime](vid-to-gif/Critical.gif)
+Supercritical regime
 ![Supercritical regime](vid-to-gif/Supercritical.gif)
 
 | Sub-critical (σ<1) | Critical (σ≈1) | Super-critical (σ>1) |
@@ -38,6 +44,7 @@ Animations of the three regimes make the dynamics legible at a glance:
 | activity dies out | balanced, long-range | runaway / saturating |
 
 The similarity of the macro behaviour to Ising model is clear and striking
+Ising model at different regimes
 ![Ising model at different regimes](figs/isingmodel.png)
 
 ## Scope & limitation
