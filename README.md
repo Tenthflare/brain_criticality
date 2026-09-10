@@ -56,5 +56,6 @@ The similarity of the macro behaviour to Ising model is clear and striking
 
 ## References
 
+Inspired by Artem Kirsanov: https://www.youtube.com/watch?v=vwLb3XlPCB4
 Friedman et al. (2012), *Universal critical dynamics in high-resolution neuronal avalanche data*, PRL;
 Beggs & Plenz (2003); Kinouchi & Copelli (2006); Sethna et al. (2001). Full list in the notebook.
